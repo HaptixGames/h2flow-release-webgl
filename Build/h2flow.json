@@ -1,0 +1,13 @@
+{
+"companyName": "Haptix Games Inc",
+"productName": "H2FLOW",
+"dataUrl": "h2flow.data.unityweb",
+"asmCodeUrl": "h2flow.asm.code.unityweb",
+"asmMemoryUrl": "h2flow.asm.memory.unityweb",
+"asmFrameworkUrl": "h2flow.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
